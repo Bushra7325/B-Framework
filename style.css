@@ -1,0 +1,81 @@
+.jumbotron{
+    text-align:center;
+    background: none;
+    margin-bottom:-2rem;
+}
+.sectionLight{
+    background-color: #eceeef;
+   padding:25px;
+}
+.sectionDark{
+    background-color:#cccccc;
+    padding:25px;
+}
+p{
+    font-size:12px;
+}
+.img-fluid.my{
+    height:260px;}
+
+.btn.ye{
+   margin:auto;
+    display:block;
+    margin-top: 25px;
+        background-color:maroon;
+}
+.col-sm-12.col-md-9.sok{
+    margin:auto;
+    display:block;
+}
+.fa{
+    margin:10px;
+}
+.img-fluid.by{
+    margin-bottom: 15px;
+}
+.fa-facebook-square{
+    color:#3b5998;
+}
+.fa-google-plus-square{
+    color:red;
+}
+.fa-twitter{
+    color:#3b5998;
+}
+.img-fluid.foo{
+    padding:10px;
+}
+.modal-title.yo{
+    margin:auto;
+    text-align: center;
+    display: block;
+  
+}
+.oh-yeah{
+    padding:15px;
+}
+.row.dos{
+    padding:15px;
+}
+.img-fluid.Bushra{
+    margin:auto;
+    display:block;
+    padding-bottom: 10px;
+}
+.img-fluid.Adeeba{
+    margin:auto;
+    display:block;
+    padding-bottom: 10px;
+}
+.img-fluid.Zakirah{
+    margin:auto;
+    display:block;
+    margin-bottom: 10px;
+}
+.btn.johai{
+    margin:auto;
+    display:block;
+    background-color:maroon;
+    width:72%;
+   margin-bottom:10px;
+}
